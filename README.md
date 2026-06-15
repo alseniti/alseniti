@@ -27,7 +27,7 @@ The thread running through my work is a product mindset. I care about scalabilit
 End-to-end pipeline: preprocessing, model training, and evaluation via Dice score.
 
 **Agentic AI Systems**
-Designing autonomous agents that reason, plan, and act using external tools — moving beyond single-shot model calls toward systems that complete multi-step tasks.
+Designing autonomous agents that reason, plan, and act using external tools - moving beyond single-shot model calls toward systems that complete multi-step tasks.
 
 **Machine Learning Pipelines**
 Structured workflows covering data cleaning, feature engineering, model comparison, and performance evaluation.
@@ -35,9 +35,6 @@ Structured workflows covering data cleaning, feature engineering, model comparis
 ---
 
 ## Featured Work
-
-### Academic Travel Approval Portal
-Responsive web application built with **HTML and Tailwind CSS**, featuring scalable UI components for workflow-based request management. Built to simulate a real approval system end to end.
 
 ### Machine Learning Systems
 Regression and classification models for predictive analysis, with full pipelines from preprocessing to evaluation and model comparison using validation metrics.
@@ -62,7 +59,7 @@ Relational database for a gym management system in SQL — schemas for users, at
 | **Machine Learning & AI** | TensorFlow, PyTorch, Keras, Scikit-learn |
 | **Data Analysis** | Pandas, NumPy, Matplotlib |
 | **Databases & Backend** | MySQL, Supabase |
-| **Development Tools** | Git, Anaconda, Sentry, Notion |
+| **Development Tools** | Git, Anaconda, Sentry |
 | **UI/UX & Design** | Figma, Canva, Inkscape |
 | **Creative Tools** | Adobe Photoshop, Illustrator, Lightroom, After Effects |
 | **Embedded Systems** | Arduino |
