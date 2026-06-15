@@ -1,67 +1,60 @@
 <h1 align="center">Mariam Alseniti</h1>
-<h3 align="center">AI Engineer | Machine Learning | Real-World AI Systems</h3>
+<h3 align="center">AI Engineer | Founder at Onward Edu | AI at Apex Health</h3>
 
 ---
 
-## 🧠 About Me
-AI engineering student focused on designing and deploying **real-world intelligent systems**, not just theoretical models.
+## About Me
 
-My work spans:
-- Medical AI (MRI tumor segmentation)
-- AI-driven automation systems (HR processes)
-- End-to-end machine learning pipelines
+I build AI systems that ship and get used — across healthcare, education, and automation.
 
-I approach every project with a **product mindset**, emphasizing scalability, usability, and measurable performance.
+Currently I'm an AI Engineer at **Apex Health**, working on applied AI in clinical settings, and a founder at **Onward Edu**, an EdTech startup serving students across the MENA region. Alongside this, I'm completing my AI engineering studies, where my focus stays consistent: real-world intelligent systems over theoretical models.
+
+The thread running through my work is a product mindset. I care about scalability, usability, and measurable performance — whether the output is a tumor segmentation model, an autonomous agent, or a deployed web app.
 
 ---
 
-## 🚀 Current Projects
-- **MRI Brain Tumor Segmentation (U-Net)**  
-  End-to-end pipeline including preprocessing, model training, and evaluation using Dice score.
+## Focus Areas
 
-- **Machine Learning Pipelines**  
-  Structured workflows covering data cleaning, feature engineering, model comparison, and performance evaluation.
-
----
-
-## 📌 Featured Work
-
-### 🌐 Academic Travel Approval Portal
-- Developed a responsive web application using **HTML and Tailwind CSS**
-- Designed scalable UI components for workflow-based request management
-- Focused on usability, structure, and real-world system simulation
+- **AI in Healthcare** — medical imaging and applied clinical AI
+- **Agentic AI** — autonomous, tool-using AI systems
+- **End-to-end ML pipelines** — from data to deployment
 
 ---
 
-### 📊 Machine Learning Systems
-- Built regression and classification models for predictive analysis
-- Implemented full ML pipelines from preprocessing to evaluation
-- Compared model performance using validation techniques and metrics
+## Current Projects
+
+**MRI Brain Tumor Segmentation (U-Net)**
+End-to-end pipeline: preprocessing, model training, and evaluation via Dice score.
+
+**Agentic AI Systems**
+Designing autonomous agents that reason, plan, and act using external tools — moving beyond single-shot model calls toward systems that complete multi-step tasks.
+
+**Machine Learning Pipelines**
+Structured workflows covering data cleaning, feature engineering, model comparison, and performance evaluation.
 
 ---
 
-### 🗄️ Database Systems
-- Designed a relational database for a gym management system using SQL
-- Structured schemas for users, attendance, and subscriptions
-- Applied normalization and optimized queries for efficiency
+## Featured Work
+
+### Academic Travel Approval Portal
+Responsive web application built with **HTML and Tailwind CSS**, featuring scalable UI components for workflow-based request management. Built to simulate a real approval system end to end.
+
+### Machine Learning Systems
+Regression and classification models for predictive analysis, with full pipelines from preprocessing to evaluation and model comparison using validation metrics.
+
+### Database Systems
+Relational database for a gym management system in SQL — schemas for users, attendance, and subscriptions, with normalization and query optimization.
 
 ---
 
+## Connect
 
-## 🎯 Career Focus
-- AI / Machine Learning Internships  
-- Data & AI / Digital Transformation Roles  
-- Building production-ready AI systems  
-
----
-
-## 🌐 Connect
-- LinkedIn: https://linkedin.com/in/alseniti  
-- Email: alsenitim@gmail.com  
+- LinkedIn: https://linkedin.com/in/alseniti
+- Email: alsenitim@gmail.com
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 | Category | Tools & Technologies |
 |--------|---------------------|
@@ -74,10 +67,8 @@ I approach every project with a **product mindset**, emphasizing scalability, us
 | **Creative Tools** | Adobe Photoshop, Illustrator, Lightroom, After Effects |
 | **Embedded Systems** | Arduino |
 
-
 ---
 
-## ⚡ Final Note
-Focused on building systems that solve real problems — not just models that run.
+## Final Note
 
-Open to collaboration and impactful AI projects.
+I build systems that solve real problems — not just models that run. Open to collaboration on impactful AI work.
